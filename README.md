@@ -1,4 +1,4 @@
-# Resume-Parser-Shubham-Kumar-
+# Resume-Parser
 This python project helps to extract the important data from resume.
 Resume must be in PDF format.
 Requirements:
